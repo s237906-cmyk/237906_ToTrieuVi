@@ -12,7 +12,7 @@
 
 \### 1. GitHub Repository
 
-https://github.com/s237906-cmyk/237906\_ToTrieuVi
+https://github.com/s237906-cmyk/237906_ToTrieuVi.git
 
 
 
