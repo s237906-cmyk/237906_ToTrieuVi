@@ -30,3 +30,7 @@ Xem hướng dẫn chi tiết trong thư mục backend và frontend.
 * Render API: CHUA\_CAP\_NHAT
 * MongoDB Atlas: CHUA\_CAP\_NHAT
 
+## Docker Hub
+
+- Backend: https://hub.docker.com/r/tovy237906/backend
+- Frontend: Chưa hoàn thành
